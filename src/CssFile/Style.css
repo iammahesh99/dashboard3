@@ -1,0 +1,54 @@
+.user{
+	background-color:#74E79F;
+	border: 2px solid #D3D3D3;
+	font-style: italic;
+	border-radius: 7px;
+	margin-left: 50%;
+	font-size: 15px;
+
+	width:50%;
+	color: black;
+
+
+	
+
+
+}
+.dummy{
+	background-color: #FFFFF0;
+	width:45%;
+	border: 2px solid #D3D3D3;
+	border-radius: 7px;
+	font-size: 15px;
+	font-style: italic;
+	color: black;
+
+
+
+}
+.ui{
+	height: 450px;
+	width: 360px;
+	margin-left: 2px;
+
+	background-color: #2F4F4F;
+	border: 1px solid #DBCBD8;
+	overflow-y: auto;
+	
+
+}
+.input{
+	
+	width: 360px;
+	margin-top: 5px;
+	margin-bottom: 1%;
+	margin-left: 2px;
+  	
+  	font-size: 18px;
+  	border-radius: 7px;
+	background-color: #FFDEAD;
+	border: 2px solid #DBCBD8;
+	overflow-y: auto;
+	
+
+}

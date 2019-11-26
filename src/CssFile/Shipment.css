@@ -1,0 +1,59 @@
+.shipment{ 
+	
+	margin-top: 2%;
+  	margin-left: 3%;
+  	
+
+}
+
+.table_head{
+	background-color: #4CAF50;
+	font-size: 75px;
+	 border: 1px solid #ddd;
+	font: bold;
+}
+.table_column{
+	 border: 1px solid #ddd;
+	
+}
+.table_menu{ 
+	
+	height: 50%;
+	
+
+  	background-color: #4a4a4a;
+}
+.container{
+	display:inline-block;
+	background-color: #4a4a4a;
+	border: 2px solid #D3D3D3;
+	border-radius: 7px;
+	margin-left: 3%;
+	width:25%;
+	
+
+}
+.container2{
+	float: left;
+	width:40%;
+	height: 400px;
+	background-color: #4a4a4a;
+	border: 2px solid #D3D3D3;
+	border-radius: 7px;
+	overflow-y: auto;
+}
+.container3{
+	float: left;
+	width:42%;
+	height: 400px;
+	background-color: #4a4a4a;
+	border: 2px solid #D3D3D3;
+	border-radius: 7px;
+	margin-left: 3%;
+	overflow-y: auto;
+}
+	
+
+p {
+      text-align:center;
+    }
